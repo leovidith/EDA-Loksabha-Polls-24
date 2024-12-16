@@ -3,15 +3,11 @@
 ## Overview:
 This project involves analyzing and visualizing the results of the 2024 election using Python. The script processes election data to provide insights into party and candidate performance, margin of victory, and other key metrics that reveal trends across constituencies.
 
----
-
 ## Why Use Data Analytics for Election Results?
 Data analytics allows us to:
 - **Uncover insights** from election results that may not be immediately obvious through manual review.
 - **Provide a comprehensive view** of electoral trends, party margins, and constituency performance.
 - **Support decision-making** by offering accurate, data-driven analyses that highlight key areas of focus, like party dominance or candidate success.
-
----
 
 ## Agile Sprint Features:
 
@@ -50,8 +46,6 @@ Data analytics allows us to:
   - Integrate all visualizations and analysis into a final report.
   - Provide user documentation explaining how to run the script and interpret results.
 - **Deliverable**: Final report with visualizations and instructions.
-
----
 
 ## Features:
 - **Data Preprocessing**:
