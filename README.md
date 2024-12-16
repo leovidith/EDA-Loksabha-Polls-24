@@ -1,4 +1,4 @@
-# Agile Implementation Path for 2024 Election Results Analysis
+# 2024 Election Results Analysis EDA
 
 ## Overview:
 This project involves analyzing and visualizing the results of the 2024 election using Python. The script processes election data to provide insights into party and candidate performance, margin of victory, and other key metrics that reveal trends across constituencies.
